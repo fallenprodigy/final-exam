@@ -167,3 +167,36 @@ a {
   letter-spacing: 1px;
   margin-top: -20px;
 }
+.h1-page-4 {
+  position: relative;
+  color: #ff5f03;
+  font-size: 72px;
+  bottom: -100px;
+  align-items: center;
+  margin-left: 500px;
+  z-index: 2;
+  text-decoration: underline;
+  letter-spacing: 5px;
+  width: 50%;
+}
+
+.box {
+  position: relative;
+  background-color: #242b3d;
+  width: 532px;
+  height: 173px;
+  bottom: 100px;
+  left: 970px;
+}
+.box-elements {
+  font-size: 18px;
+  position: absolute;
+  left: 150px;
+  bottom: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+  gap: 20px;
+}
